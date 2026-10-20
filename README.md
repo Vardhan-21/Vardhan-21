@@ -1,106 +1,75 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=160&section=header&text=Jaya%20Vardhan%20Nidizivvi&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=75" />
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Jenkins+%7C+Ansible+%7C+Helm;B.Tech+CSE+Cloud+Computing+%40+Alliance+University)](https://git.io/typing-svg)
+# Hi! I am Jaya Vardhan
 
-<p align="center">
-  <a href="mailto:vardhanchilamkur@gmail.com"><img src="https://img.shields.io/badge/Email-vardhanchilamkur@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jayavardhan-nidizivvi-8b9b20301"><img src="https://img.shields.io/badge/LinkedIn-Jayavardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Vardhan-21"><img src="https://img.shields.io/badge/GitHub-Vardhan--21-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Vardhan-21"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</p>
+### Aspiring DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD Automation
 
-### 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayavardhan-nidizivvi-8b9b20301)
+[![GitHub](https://img.shields.io/github/followers/Vardhan-21?label=GitHub&style=social)](https://github.com/Vardhan-21)
+[![Profile views](https://komarev.com/ghpvc/?username=Vardhan-21&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/Vardhan-21)
 
-> Computer Science and Cloud Computing graduate with hands-on experience in **AWS, Docker, Kubernetes, Terraform, Jenkins & CI/CD**. Built frontend for a multimodal generative AI platform and created scalable cloud infra with EC2, Load Balancing, automated testing & deployment. Strong in REST APIs, Linux, Networking & DevOps practices.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer+in+the+making;Cloud+Infrastructure+on+AWS;Kubernetes+%26+CI%2FCD+Automation;Terraform+%26+Ansible+as+Code;Prometheus+%2B+Grafana+Observability" alt="Typing roles" />
 
-- 🔭 Currently building `Highly Available AWS Infra with Terraform` & `End-to-End CI/CD on EC2`
-- 🌱 Learning: `Advanced Kubernetes & Helm, AWS EKS, Prometheus/Grafana`
-- 💼 Experience: `Frontend Intern @ Nammah Pvt. Ltd. - Atlas AI Platform`
-- 🎓 B.Tech CSE - Cloud Computing @ Alliance University | **CGPA: 8.0** | 2022-2026
-- 📍 Chilamkur, India | 📧 vardhanchilamkur@gmail.com
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="25"> Ａｂｏｕｔ Ｍｅ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="25">
 
-**Cloud & IaC**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+I'm a B.Tech CSE (Cloud Computing) graduate who builds **cloud-native infrastructure** that teams can deploy, observe, and trust in production. My focus is automation, reliability, and clean delivery workflows.
 
-**Containers & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+- **Cloud infrastructure**: hands-on with AWS, working knowledge of Azure and GCP
+- **Containers**: package with Docker and orchestrate on Kubernetes (Helm)
+- **CI/CD**: automate delivery with Jenkins, GitHub Actions, Maven, SonarQube, Trivy and Nexus
+- **Infrastructure as code**: provision and configure with Terraform and Ansible
+- **GitOps & observability**: GitOps workflows, Prometheus and Grafana
+- **Systems**: Linux administration and Bash, with a C/C++ and DSA foundation
 
-**CI/CD & DevOps**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Nexus](https://img.shields.io/badge/Nexus-0176D3?style=flat)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat)
+I enjoy building automation, improving deployment workflows, and learning in public.
 
-**Observability & Others**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,linux,react,cpp,py,java,bash&perline=8" />
-  </a>
-</p>
+[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/jayavardhan-nidizivvi-8b9b20301) · [GitHub](https://github.com/Vardhan-21) · [Email](mailto:YOUR_EMAIL@example.com)
 
 ---
 
-### 💼 Experience
-
-**Software Development Intern (Frontend) | Nammah Pvt. Ltd.** `Mar 2026 - Sep 2026`
-*Atlas AI — Multimodal generative AI platform [Image, Video, Voice & Storyboard]*
-- Developed responsive React/Vite features for pre-launch platform
-- Built per-user, per-sequence storyboard persistence with localStorage [Grid, Table, Single, Animatic]
-- Managed Git feature branches, resolved merge conflicts
-- Tested responsive layouts across phone, tablet & laptop
-
----
-
-### 🚀 Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| **End-to-End CI/CD Pipeline on AWS** | `AWS EC2, Jenkins, Groovy, Maven, SonarQube, Nexus, Trivy, Tomcat, Slack` | Multi-stage pipeline automating build, testing, code-quality, security scan & deployment with quality gates & Slack notifications |
-| **Highly Available AWS Infra with Terraform** | `AWS, Terraform, EC2, ALB, Apache` | HA architecture across AZs behind ALB, infra as code + health checks & traffic distribution validation |
-| [**driver-drowsiness-detection**](https://github.com/Vardhan-21/driver-drowsiness-detection) | `Python, OpenCV, dlib` | Real-time driver drowsiness detection using computer vision |
-| [**Banking-Management-System**](https://github.com/Vardhan-21/Banking-Management-System) | `C++` | Console based banking management system |
-
----
-
-### 📊 GitHub Stats
+### 🚀 Languages - Frameworks - Tools - Workspace 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vardhan-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vardhan-21&theme=tokyonight&hide_border=true&background=0D1117" height="165">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,helm,jenkins,ansible,terraform,grafana,prometheus,linux,ubuntu,git,githubactions,github,bash,c,cpp,mysql,vscode" alt="Skills and tools" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vardhan-21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7">
-</p>
+## Featured Projects
 
----
+Hands-on DevOps and cloud projects covering AWS, CI/CD, Terraform, and Kubernetes. Replace each `REPO-NAME` with your real repository name.
 
-### 📫 Let\'s Connect
+| Project | Focus | Links |
+| --- | --- | --- |
+| End-to-end CI/CD pipeline on AWS | Jenkins, SonarQube, Nexus and Tomcat on four EC2 instances; Maven build, JaCoCo, quality gate, Trivy scan, Nexus publish, WAR deploy, Slack alerts | [Code](https://github.com/Vardhan-21/REPO-NAME) |
+| Terraform: EC2 + Application Load Balancer | Two Apache web servers across separate AZs behind an ALB with target group, listener and health checks | [Code](https://github.com/Vardhan-21/REPO-NAME) |
+| GitHub Actions + EKS pipeline *(add once built)* | SonarQube, Docker, Trivy, Docker Hub and email notification deploying to EKS | [Code](https://github.com/Vardhan-21/REPO-NAME) |
 
-> Open to Cloud & DevOps Engineer roles | Internships | Freelance
+## 📊 My GitHub Stats
 
-<p align="center">
-  <i>⚡ "Automate Everything, Monitor Everything" ⚡</i>
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=100&section=footer" />
+[![Streak](https://streak-stats.demolab.com/?user=Vardhan-21&theme=black-ice&hide_border=true&background=060A0C)](https://github.com/Vardhan-21)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vardhan-21&show_icons=true&count_private=true&line_height=27&rank_icon=github&theme=algolia&hide_border=true)](https://github.com/Vardhan-21)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vardhan-21&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true)](https://github.com/Vardhan-21)
+
+[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vardhan-21&theme=algolia)](https://github.com/Vardhan-21)
+
+[![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vardhan-21&theme=algolia)](https://github.com/Vardhan-21)
+[![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vardhan-21&theme=algolia)](https://github.com/Vardhan-21)
+[![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vardhan-21&theme=algolia)](https://github.com/Vardhan-21)
+
+[![3D contribution stats](https://raw.githubusercontent.com/Vardhan-21/Vardhan-21/output/profile-night-view.svg)](https://github.com/Vardhan-21)
+
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vardhan-21&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Vardhan-21)
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Vardhan-21&column=4&margin-w=15&margin-h=15&no-frame=true&theme=algolia)](https://github.com/Vardhan-21)
+
+[![github-snake](https://raw.githubusercontent.com/Vardhan-21/Vardhan-21/output/github-snake-dark.svg "Watch the snake eat my contributions")](https://github.com/Vardhan-21)
+
+<img src="https://readme-typing-svg.demolab.com?lines=Thanks+for+visiting!;Take+a+look+at+my+repositories;Follow+for+DevOps+and+cloud+work&font=Fira+Code&center=true&width=650&height=80&color=58a6ff&vCenter=true&size=18" alt="Thanks for visiting" />
+
+</div>
