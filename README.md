@@ -10,6 +10,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=DevOps+Engineer+in+the+making;Cloud+Infrastructure+on+AWS;Kubernetes+%26+CI%2FCD+Automation;Terraform+%26+Ansible+as+Code;Prometheus+%2B+Grafana+Observability" alt="Typing roles" />
 
+<img src="assets/name-artwork.svg" alt="Jaya Vardhan" width="100%" />
+
+<img src="assets/devops-hero.svg" alt="DevOps" width="100%" />
+
 </div>
 
 ---
@@ -69,6 +73,15 @@ Hands-on DevOps and cloud projects covering AWS, CI/CD, Terraform, and Kubernete
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Vardhan-21&column=4&margin-w=15&margin-h=15&no-frame=true&theme=algolia)](https://github.com/Vardhan-21)
 
 [![github-snake](https://raw.githubusercontent.com/Vardhan-21/Vardhan-21/output/github-snake-dark.svg "Watch the snake eat my contributions")](https://github.com/Vardhan-21)
+
+⏳ 𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚜𝚝𝚊𝚢𝚎𝚍 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 ◔_◔ ⌛
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/clock.svg" alt="IST clock" width="300" /><br/><sub>⌚ Front-End</sub></td>
+    <td align="center"><img src="assets/gears.svg" alt="Gears" width="300" /><br/><sub>⚙️ Back-End</sub></td>
+  </tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?lines=Thanks+for+visiting!;Take+a+look+at+my+repositories;Follow+for+DevOps+and+cloud+work&font=Fira+Code&center=true&width=650&height=80&color=58a6ff&vCenter=true&size=18" alt="Thanks for visiting" />
 
